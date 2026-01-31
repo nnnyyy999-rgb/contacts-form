@@ -1,0 +1,8 @@
+docker/mysql/data/
+docker/mysql/logs/
+docker/mysql/conf/
+vendor/
+node_modules/
+.env
+
+
